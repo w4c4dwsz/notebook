@@ -1,3 +1,3 @@
 # notebook
 myself notebook
-:-D
+:--D
